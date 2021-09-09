@@ -4,12 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CSF2Homework
+namespace ContactInfo
 {
-    class Program
+    public class ContactInfo
     {
-        static void Main(string[] args)
-        {
-        }
     }
 }

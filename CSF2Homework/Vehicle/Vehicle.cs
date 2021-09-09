@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ClassesLibrary
+namespace Vehicle
 {
-    public class Class1
+    public class Vehicle
     {
     }
 }
